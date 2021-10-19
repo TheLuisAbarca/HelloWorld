@@ -1,4 +1,3 @@
 test.md
 *.yml
-.hintrc
-.stylelintrc.json
+node_modules/
