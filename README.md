@@ -1,7 +1,5 @@
 # Hello World
 
-> Repo where I practice the rules and correct behavior when 'Creating Repos' comes to action. 
-
 ![screenshot](./app_screenshot.png)
 
 In this project we test the best practices that Microverse is showing us to follow in order to be at the standard of  professionals on software development.
