@@ -1,23 +1,15 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Hello World
 
-# Project Name
-
-> One paragraph statement about the project.
+> Repo where I practice the rules and correct behavior when 'Creating Repos' comes to action. 
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+In this project we test the best practices that Microverse is showing us to follow in order to be at the standard of  professionals on software development.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS
 
 ## Getting Started
 
@@ -45,15 +37,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/TheLuisAbarca)
 
 ## 🤝 Contributing
 
